@@ -9,7 +9,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 ### ---Project title---
 **Description**: ---Your description here ---  \
 **Project url**: ---Your URL here --- \
-**Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 1---](---GitHub link 1---)  
+**Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 2---](---GitHub link 2 ---) & ---etc.---
 
 <!-- -->
 

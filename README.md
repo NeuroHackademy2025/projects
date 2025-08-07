@@ -6,6 +6,13 @@
 INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DASHES ("---") WITH YOUR PROJECT INFORMATION 
 -->
 
+### ---Project title---
+**Description**: ---Your description here ---  \
+**Project url**: ---Your URL here --- \
+**Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 1---](---GitHub link 1---)  
+
+<!-- -->
+
 ### Predictive Brains
 **Description**: Predicting cognitive decline based on brain volume using OASIS-2 (Open Access Series of Imaging Studies) data, which consists of a longitudinal collection of older adults with and without dementia characterization. \
 **Project url**: https://github.com/NeuroHackademy2025/high-dimensionality-prediction  \

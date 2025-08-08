@@ -64,7 +64,11 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Contributors**: [Natalie McClain](https://github.com/natalie-mcclain) & [Ben Scheve](https://github.com/bfscheve)
 
 ### GlioGrade
-**Description**: We compared deep learning and machine learning methods to create biomarkers for predicting tumor (glioma) grade (lo v. hi) using FA in an open access dataset (PDGM).
-  \
+**Description**: We compared deep learning and machine learning methods to create biomarkers for predicting tumor (glioma) grade (lo v. hi) using FA in an open access dataset (PDGM).\
 **Project url**: https://github.com/NeuroHackademy2025/GlioGrade \
 **Contributors**: [Carli Fine](https://github.com/cdfine) & [Jessica Ojeda](https://github.com/jo99-psych) & [Nate Overholtzer](https://github.com/nateoverholtzer) & [Mahsa Servati](https://github.com/mservati) & [Isla Xiao](https://github.com/islaxiao01) & [Dan Zhou](https://github.com/danzh07)
+
+### Diffusion MRI prediction of developmental stage
+**Description**: Using HBN dMRI dataset to predict developmental stage (age)  \
+**Project url**: https://github.com/NeuroHackademy2025/EEG_DTI_analysis \
+**Contributors**: [Lital Cohen-Blum](https://github.com/litalcohen88) 

@@ -44,8 +44,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Contributors**: [Tien Tong](https://github.com/tien-tong)
 
 ### bci-vis
-**Description**: A Python package that builds on MNE to provide modular, BCI-task-specific visualization and preprocessing. \ 
-**Project url**: https://github.com/NeuroHackademy2025/bci-vis \
+**Description**: A Python package that builds on MNE to provide modular, BCI-task-specific visualization and preprocessing.  \ 
+**Project url**: https://github.com/NeuroHackademy2025/bci-vis  \
 **Contributors**: [Niv Cohen ](https://github.com/nivco360)
 
 ### Funk-y Connection

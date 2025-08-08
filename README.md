@@ -52,3 +52,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: Based on previous work, we tried a new approach to compute the cortical magnification on HCP retinotopy data. \
 **Project url**: https://github.com/NeuroHackademy2025/pRF-project_NH2025 \
 **Contributors**: [Adrien Wong](https://github.com/adrianwong111) & [Uriel Lascombes](https://github.com/ulascombes)
+
+### Mapping Brain State Dynamics to Narrative Event Boundaries
+**Description**: In this analysis project, we are extracting patterns of functional dynamics during a naturalistic fMRI task and comparing that activity to narrative event boundaries.  \
+**Project url**: https://github.com/natalie-mcclain/narratives-project \
+**Contributors**: [Natalie McClain](https://github.com/natalie-mcclain) & [Ben Scheve](https://github.com/bfscheve)

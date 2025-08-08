@@ -22,7 +22,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 ### Precision Paths
 **Description**: An Aggregated, Curated, & Itemized Collection of Open and Available Precision Functional Mapping (PFM) from Resting State fMRI Data \
 **Project url**: https://github.com/NeuroHackademy2025/precision-paths \
-**Contributors**: [Jonathan Ahern](https://github.com/j0n-a) & [Elizabeth Li Shuxuan](https://github.com/elizabeth-li-shuxuan) & [Sujin Park](https://github.com/suezaan)=======
+**Contributors**: [Jonathan Ahern](https://github.com/j0n-a) & [Elizabeth Li Shuxuan](https://github.com/elizabeth-li-shuxuan) & [Sujin Park](https://github.com/suezaan)
 
 ### neuroloopy
 **Description**: Real-time fMRI neurofeedback processing package for closed-loop experiments. Current version enables real-time pattern classification with a pretrained scikit-learn classifier object. \

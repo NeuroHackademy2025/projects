@@ -19,7 +19,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Contributors**: [Michelle Shipkova](https://github.com/MShipkova), [Chaebin Yoo](https://github.com/ChaebinKYoo), [Sahithyan Sivakumaran](https://github.com/Sahithyan-S), [Ozoswita Roy Deb](https://github.com/Ozoswita15), [Eva Lout](https://github.com/evaloutc), [Lingwei Ouyang](https://github.com/Lingwei-oy), [Denisse Bolaños-Ramirez] (https://github.com/DenisseeBR), Vinay, & Halil
 
 ### Infomapping the Fly Brain
-**Description**: A repsoitory containging scripts to perform infomap community detection on the Drosophilia Connectome from flywire.ai. Contains a GUI to run Infomap community detection with the ability to adjust number of synapses to include (measure of degree), which classes of neurotransmitters, and number of internal trials. Contains plotting GUI to visualize infomap communties across different hierarchical levels and options to adjust size based on neuron degree
+**Description**: A repository containging scripts to perform infomap community detection on the Drosophilia Connectome from flywire.ai. Contains a GUI to run Infomap community detection with the ability to adjust number of synapses to include (measure of degree), which classes of neurotransmitters, and number of internal trials. Contains plotting GUI to visualize infomap communties across different hierarchical levels and options to adjust size based on neuron degree
 **Project url**: https://github.com/NeuroHackademy2025/fly_connectome
 **Contributors**: [Nathan Labora](https://github.com/nathanlabora), [Jake Chernicky](https://github.com/jakeicky),[Ilia Ernston]
 

@@ -52,3 +52,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: Based on previous work, we tried a new approach to compute the cortical magnification on HCP retinotopy data. \
 **Project url**: https://github.com/NeuroHackademy2025/pRF-project_NH2025 \
 **Contributors**: [Adrien Wong](https://github.com/adrianwong111) & [Uriel Lascombes](https://github.com/ulascombes)
+
+### FAIRyTale - Give your data a happily-ever-after
+**Description**: FAIRyTale is an open-source tool that helps researchers align their project structure with the FAIR (Findable, Accessible, Interoperable, Reusable) and Open Science principles. It supports two main workflows: (1) Create a FAIR-ready repository by uploading your files — the tool automatically organizes them into a standardized structure. (2) Validate an existing project folder — check if your current project follows FAIR principles and get recommendations for improvement. \
+**Project url**: https://github.com/NeuroHackademy2025/open-science-pipeline \
+**Contributors**: [Florencia Altschuler](https://github.com/florenciaaltschuler) & [Annika Andersson](https://github.com/Ahandersson) & [Illiana Sandoval](https://github.com/Iliana060996) & [Jaime Rios] (https://github.com/Rios-Jaime)

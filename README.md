@@ -57,3 +57,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: FAIRyTale is an open-source tool that helps researchers align their project structure with the FAIR (Findable, Accessible, Interoperable, Reusable) and Open Science principles. It supports two main workflows: (1) Create a FAIR-ready repository by uploading your files — the tool automatically organizes them into a standardized structure. (2) Validate an existing project folder — check if your current project follows FAIR principles and get recommendations for improvement. \
 **Project url**: https://github.com/NeuroHackademy2025/open-science-pipeline \
 **Contributors**: [Florencia Altschuler](https://github.com/florenciaaltschuler) & [Annika Andersson](https://github.com/Ahandersson) & [Illiana Sandoval](https://github.com/Iliana060996) & [Jaime Rios](https://github.com/Rios-Jaime)
+
+### Mapping Brain State Dynamics to Narrative Event Boundaries
+**Description**: In this analysis project, we are extracting patterns of functional dynamics during a naturalistic fMRI task and comparing that activity to narrative event boundaries.  \
+**Project url**: https://github.com/natalie-mcclain/narratives-project \
+**Contributors**: [Natalie McClain](https://github.com/natalie-mcclain) & [Ben Scheve](https://github.com/bfscheve)

@@ -56,4 +56,4 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 ### FAIRyTale - Give your data a happily-ever-after
 **Description**: FAIRyTale is an open-source tool that helps researchers align their project structure with the FAIR (Findable, Accessible, Interoperable, Reusable) and Open Science principles. It supports two main workflows: (1) Create a FAIR-ready repository by uploading your files — the tool automatically organizes them into a standardized structure. (2) Validate an existing project folder — check if your current project follows FAIR principles and get recommendations for improvement. \
 **Project url**: https://github.com/NeuroHackademy2025/open-science-pipeline \
-**Contributors**: [Florencia Altschuler](https://github.com/florenciaaltschuler) & [Annika Andersson](https://github.com/Ahandersson) & [Illiana Sandoval](https://github.com/Iliana060996) & [Jaime Rios] (https://github.com/Rios-Jaime)
+**Contributors**: [Florencia Altschuler](https://github.com/florenciaaltschuler) & [Annika Andersson](https://github.com/Ahandersson) & [Illiana Sandoval](https://github.com/Iliana060996) & [Jaime Rios](https://github.com/Rios-Jaime)

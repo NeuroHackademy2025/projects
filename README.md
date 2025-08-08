@@ -62,3 +62,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: In this analysis project, we are extracting patterns of functional dynamics during a naturalistic fMRI task and comparing that activity to narrative event boundaries.  \
 **Project url**: https://github.com/natalie-mcclain/narratives-project \
 **Contributors**: [Natalie McClain](https://github.com/natalie-mcclain) & [Ben Scheve](https://github.com/bfscheve)
+
+### Diffusion MRI prediction of developmental stage
+**Description**: Using HBN dMRI dataset to predict developmental stage (age)  \
+**Project url**: https://github.com/NeuroHackademy2025/EEG_DTI_analysis \
+**Contributors**: [Lital Cohen-Blum](https://github.com/litalcohen88) 

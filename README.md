@@ -18,3 +18,9 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Project url**: https://github.com/NeuroHackademy2025/high-dimensionality-prediction  \
 **Contributors**: [Gabriela Franca](https://github.com/GabrielaFranca) & [Sam Brunson](https://github.com/brunsons98) & [Vanessa Morgan](https://github.com/vanessatmorgan) & 
 [Jocelyn Ricard](https://github.com/ricardjocelyn) & [Xin Du](https://github.com/NotDX) & [Yewande Taiwo](https://github.com/ytaiwo) & [Maria Pitteri](https://github.com/mariacpitteri) & [Bijay Adhikari](https://github.com/bjayadikari) & [Tengwen Fan](https://github.com/tengwenfan) & [Ais Sheldon](https://github.com/ais-sheldon)  
+
+
+### LLMD2B – From DICOM metadata to BIDS heuristics
+**Description**: Create a tool that analyzes DICOM headers and leverages Large Language Models (LLM) to automatically generate heuristic files for HeuDiConv, streamlining the conversion from DICOM to BIDS.  \
+**Project url**: https://github.com/NeuroHackademy2025/llm-heuristics \
+**Contributors**: [Tien Tong](https://github.com/tien-tong)

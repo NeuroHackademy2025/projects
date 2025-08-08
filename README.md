@@ -67,3 +67,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: Using HBN dMRI dataset to predict developmental stage (age)  \
 **Project url**: https://github.com/NeuroHackademy2025/EEG_DTI_analysis \
 **Contributors**: [Lital Cohen-Blum](https://github.com/litalcohen88) 
+
+### ---fMRI Functional Connectivity 2---
+**Description**: In this exploratory data analysis project, we examined the functional and effective connectivity between healthy and depressed individuals using the [Transdiagnostic connectome project](https://openneuro.org/datasets/ds005237/versions/1.1.3). We used machine learning to predict how prevalent how each brain region contributes to the diagnosis of depression. \
+**Project url**: https://github.com/NeuroHackademy2025/fmri_animal_model_translation \
+**Contributors**: [Yashoda Krishna Das](https://github.com/Ykd-stat24), [Anudeep Vadrevu](https://github.com/Anudeep2205), [Mert Ozkan](https://github.com/mert-ozkan) & [Giulia Vasirani](https://github.com/Vassy-neuro/)

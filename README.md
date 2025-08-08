@@ -22,4 +22,19 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 ### Precision Paths
 **Description**: An Aggregated, Curated, & Itemized Collection of Open and Available Precision Functional Mapping (PFM) from Resting State fMRI Data \
 **Project url**: https://github.com/NeuroHackademy2025/precision-paths \
-**Contributors**: [Jonathan Ahern](https://github.com/j0n-a) & [Elizabeth Li Shuxuan](https://github.com/elizabeth-li-shuxuan) & [Sujin Park](https://github.com/suezaan)
+**Contributors**: [Jonathan Ahern](https://github.com/j0n-a) & [Elizabeth Li Shuxuan](https://github.com/elizabeth-li-shuxuan) & [Sujin Park](https://github.com/suezaan)=======
+
+### neuroloopy
+**Description**: Real-time fMRI neurofeedback processing package for closed-loop experiments. Current version enables real-time pattern classification with a pretrained scikit-learn classifier object. \
+**Project url**: https://github.com/NeuroHackademy2025/neuroloopy  \
+**Contributors**: [Caleb Jerinic-Brodeur](https://github.com/cjerinic) & [Deepasri Prasad](https://github.com/prasadee) & [Hildelith Leyser](https://github.com/hildieleyser) & [Lynn Kurteff](https://github.com/kurteff) & [Nikhitha D](https://github.com/NikhithaD26)
+
+### Func-Struct_Extractor
+**Description**: A flexible python package that allows you to take a label from any space (volume or surface, template or native), and project it into the sapce of any structural image/map of the brain to extract metrics of strucutral properties. \
+**Project url**: https://github.com/NeuroHackademy2025/func-struct_extractor \
+**Contributors**: [Jamie Mitchell](https://github.com/jamielmitchell) & [John Romero](https://github.com/johndromero) & [Svenja Seuffert](https://github.com/svenjaseuffert)
+
+### LLMD2B – From DICOM metadata to BIDS heuristics
+**Description**: Create a tool that analyzes DICOM headers and leverages Large Language Models (LLM) to automatically generate heuristic files for HeuDiConv, streamlining the conversion from DICOM to BIDS.  \
+**Project url**: https://github.com/NeuroHackademy2025/llm-heuristics \
+**Contributors**: [Tien Tong](https://github.com/tien-tong)

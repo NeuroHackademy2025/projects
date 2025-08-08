@@ -12,6 +12,10 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 2---](---GitHub link 2 ---) & ---etc.---
 
 <!-- -->
+### NeuroSites
+**Description**: Welcome to NeuroSites — a curated collection of customizable templates for neuroscience-related websites, including lab pages, personal research sites, and event pages. \
+**Project url**: https://github.com/NeuroHackademy2025/NeuroSites \
+**Contributors**: [Isha Chhabra](https://github.com/ishachhabra1) & [Juan Garcia](https://github.com/Jupablo93) & [Menghan Yang](https://github.com/Menghan-Yang) & [Chloe Hampson](https://github.com/chlohamp) & [Emina Ayyildiz](https://github.com/eminaayyildiz) 
 
 ### Predictive Brains
 **Description**: Predicting cognitive decline based on brain volume using OASIS-2 (Open Access Series of Imaging Studies) data, which consists of a longitudinal collection of older adults with and without dementia characterization. \
@@ -22,7 +26,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 ### Precision Paths
 **Description**: An Aggregated, Curated, & Itemized Collection of Open and Available Precision Functional Mapping (PFM) from Resting State fMRI Data \
 **Project url**: https://github.com/NeuroHackademy2025/precision-paths \
-**Contributors**: [Jonathan Ahern](https://github.com/j0n-a) & [Elizabeth Li Shuxuan](https://github.com/elizabeth-li-shuxuan) & [Sujin Park](https://github.com/suezaan)=======
+**Contributors**: [Jonathan Ahern](https://github.com/j0n-a) & [Elizabeth Li Shuxuan](https://github.com/elizabeth-li-shuxuan) & [Sujin Park](https://github.com/suezaan)
 
 ### neuroloopy
 **Description**: Real-time fMRI neurofeedback processing package for closed-loop experiments. Current version enables real-time pattern classification with a pretrained scikit-learn classifier object. \
@@ -43,3 +47,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: This analysis is aimed at discovering differences between healthy and depressed brains using the [Transdiagnostic connectome project](https://openneuro.org/datasets/ds005237/versions/1.1.3). We tested differences in network metrics like global efficiency and nodal degree between healthy and depressed populations and used functional connectivity to predict the degree of depression using a graph neural network.   \
 **Project url**: https://github.com/NeuroHackademy2025/func_connectivity \
 **Contributors**: [Andrea Fernandes](https://github.com/a-ferfer) & [Chris Weinberger](https://github.com/chris-weinberger) & [Clara Pecci](https://github.com/clarapecci) & [Danial Khoshsoroor](https://github.com/Danialkh96) & [Diego Ramirez Gonzalez](https://github.com/diramigo) & [Samantha Eaton](https://github.com/SamanthasCodes) 
+
+### HCP cortical magnification
+**Description**: Based on previous work, we tried a new approach to compute the cortical magnification on HCP retinotopy data. \
+**Project url**: https://github.com/NeuroHackademy2025/pRF-project_NH2025 \
+**Contributors**: [Adrien Wong](https://github.com/adrianwong111) & [Uriel Lascombes](https://github.com/ulascombes)

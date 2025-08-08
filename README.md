@@ -13,7 +13,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 
 <!-- -->
 ### NeuroSites
-**Description**: Welcome to NeuroSites — a curated collection of customizable templates for neuroscience-related websites, including lab pages, personal research sites, and event pages. /
+**Description**: Welcome to NeuroSites — a curated collection of customizable templates for neuroscience-related websites, including lab pages, personal research sites, and event pages. \
 **Project url**: https://github.com/NeuroHackademy2025/NeuroSites \
 **Contributors**: [Isha Chhabra](https://github.com/ishachhabra1) & [Juan Garcia](https://github.com/Jupablo93) & [Menghan Yang](https://github.com/Menghan-Yang) & [Chloe Hampson](https://github.com/chlohamp) & [Emina Ayyildiz](https://github.com/eminaayyildiz) 
 

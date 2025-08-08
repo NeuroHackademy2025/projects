@@ -43,6 +43,11 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Project url**: https://github.com/NeuroHackademy2025/llm-heuristics \
 **Contributors**: [Tien Tong](https://github.com/tien-tong)
 
+### bci-vis
+**Description**: A Python package that builds on MNE to provide modular, BCI-task-specific visualization and preprocessing.
+**Project url**: https://github.com/NeuroHackademy2025/bci-vis
+**Contributors**: [Niv Cohen ](https://github.com/nivco360)
+
 ### Funk-y Connection
 **Description**: This analysis is aimed at discovering differences between healthy and depressed brains using the [Transdiagnostic connectome project](https://openneuro.org/datasets/ds005237/versions/1.1.3). We tested differences in network metrics like global efficiency and nodal degree between healthy and depressed populations and used functional connectivity to predict the degree of depression using a graph neural network.   \
 **Project url**: https://github.com/NeuroHackademy2025/func_connectivity \

@@ -18,6 +18,11 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Project url**: https://github.com/Lingwei-oy/memory_NSD \
 **Contributors**: [Michelle Shipkova](https://github.com/MShipkova), [Chaebin Yoo](https://github.com/ChaebinKYoo), [Sahithyan Sivakumaran](https://github.com/Sahithyan-S), [Ozoswita Roy Deb](https://github.com/Ozoswita15), [Eva Lout](https://github.com/evaloutc), [Lingwei Ouyang](https://github.com/Lingwei-oy), [Denisse Bolaños-Ramirez] (https://github.com/DenisseeBR), Vinay, & Halil
 
+### Infomapping the Fly Brain
+**Description**: A repsoitory containging scripts to perform infomap community detection on the Drosophilia Connectome from flywire.ai. Contains a GUI to run Infomap community detection with the ability to adjust number of synapses to include (measure of degree), which classes of neurotransmitters, and number of internal trials. Contains plotting GUI to visualize infomap communties across different hierarchical levels and options to adjust size based on neuron degree
+**Project url**: https://github.com/NeuroHackademy2025/fly_connectome
+**Contributors**: [Nathan Labora](https://github.com/nathanlabora), [Jake Chernicky](https://github.com/jakeicky),[Ilia Ernston
+
 ### NeuroSites
 **Description**: Welcome to NeuroSites — a curated collection of customizable templates for neuroscience-related websites, including lab pages, personal research sites, and event pages. \
 **Project url**: https://github.com/NeuroHackademy2025/NeuroSites \
@@ -83,3 +88,5 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: In this exploratory data analysis project, we examined the functional and effective connectivity between healthy and depressed individuals using the [Transdiagnostic connectome project](https://openneuro.org/datasets/ds005237/versions/1.1.3). We used machine learning to predict how prevalent how each brain region contributes to the diagnosis of depression. \
 **Project url**: https://github.com/NeuroHackademy2025/fmri_animal_model_translation \
 **Contributors**: [Yashoda Krishna Das](https://github.com/Ykd-stat24), [Anudeep Vadrevu](https://github.com/Anudeep2205), [Mert Ozkan](https://github.com/mert-ozkan) & [Giulia Vasirani](https://github.com/Vassy-neuro/)
+
+

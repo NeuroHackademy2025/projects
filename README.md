@@ -18,3 +18,10 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Project url**: https://github.com/NeuroHackademy2025/high-dimensionality-prediction  \
 **Contributors**: [Gabriela Franca](https://github.com/GabrielaFranca) & [Sam Brunson](https://github.com/brunsons98) & [Vanessa Morgan](https://github.com/vanessatmorgan) & 
 [Jocelyn Ricard](https://github.com/ricardjocelyn) & [Xin Du](https://github.com/NotDX) & [Yewande Taiwo](https://github.com/ytaiwo) & [Maria Pitteri](https://github.com/mariacpitteri) & [Bijay Adhikari](https://github.com/bjayadikari) & [Tengwen Fan](https://github.com/tengwenfan) & [Ais Sheldon](https://github.com/ais-sheldon)  
+
+<!-- -->
+
+### neuroloopy
+**Description**: Real-time fMRI neurofeedback processing package for closed-loop experiments. Current version enables real-time pattern classification with a pretrained scikit-learn classifier object. \
+**Project url**: https://github.com/NeuroHackademy2025/neuroloopy  \
+**Contributors**: [Caleb Jerinic-Brodeur](https://github.com/cjerinic) & [Deepasri Prasad](https://github.com/prasadee) & [Hildelith Leyser](https://github.com/hildieleyser) & [Lynn Kurteff](https://github.com/kurteff) & [Nikhitha D](https://github.com/NikhithaD26)

@@ -12,6 +12,10 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 2---](---GitHub link 2 ---) & ---etc.---
 
 <!-- -->
+### NeuroSites
+**Description**: Welcome to NeuroSites — a curated collection of customizable templates for neuroscience-related websites, including lab pages, personal research sites, and event pages. /
+**Project url**: https://github.com/NeuroHackademy2025/NeuroSites \
+**Contributors**: [Isha Chhabra](https://github.com/ishachhabra1) & [Juan Garcia](https://github.com/Jupablo93) & [Menghan Yang](https://github.com/Menghan-Yang) & [Chloe Hampson](https://github.com/chlohamp) & [Emina Ayyildiz](https://github.com/eminaayyildiz) 
 
 ### Predictive Brains
 **Description**: Predicting cognitive decline based on brain volume using OASIS-2 (Open Access Series of Imaging Studies) data, which consists of a longitudinal collection of older adults with and without dementia characterization. \

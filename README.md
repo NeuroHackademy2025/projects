@@ -62,3 +62,9 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: In this analysis project, we are extracting patterns of functional dynamics during a naturalistic fMRI task and comparing that activity to narrative event boundaries.  \
 **Project url**: https://github.com/natalie-mcclain/narratives-project \
 **Contributors**: [Natalie McClain](https://github.com/natalie-mcclain) & [Ben Scheve](https://github.com/bfscheve)
+
+### GlioGrade
+**Description**: We compared deep learning and machine learning methods to create biomarkers for predicting tumor (glioma) grade (lo v. hi) using FA in an open access dataset (PDGM).
+  \
+**Project url**: https://github.com/NeuroHackademy2025/GlioGrade \
+**Contributors**: [Carli Fine](https://github.com/cdfine) & [Jessica Ojeda](https://github.com/jo99-psych) & [Nate Overholtzer](https://github.com/nateoverholtzer) & [Mahsa Servati](https://github.com/mservati) & [Isla Xiao](https://github.com/islaxiao01) & [Dan Zhou](https://github.com/danzh07)

@@ -40,6 +40,6 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Contributors**: [Tien Tong](https://github.com/tien-tong)
 
 ### HCP cortical magnification
-**Description**: Based on previous work we try a new way to compute the cortical magnification on HCP retinotopi data. \
+**Description**: Based on previous work, we tried a new approach to compute the cortical magnification on HCP retinotopy data. \
 **Project url**: https://github.com/NeuroHackademy2025/pRF-project_NH2025 \
 **Contributors**: [Adrien Wong](https://github.com/adrianwong111) & [Uriel Lascombes](https://github.com/ulascombes)

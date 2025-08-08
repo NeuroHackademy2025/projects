@@ -21,7 +21,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 ### Infomapping the Fly Brain
 **Description**: A repsoitory containging scripts to perform infomap community detection on the Drosophilia Connectome from flywire.ai. Contains a GUI to run Infomap community detection with the ability to adjust number of synapses to include (measure of degree), which classes of neurotransmitters, and number of internal trials. Contains plotting GUI to visualize infomap communties across different hierarchical levels and options to adjust size based on neuron degree
 **Project url**: https://github.com/NeuroHackademy2025/fly_connectome
-**Contributors**: [Nathan Labora](https://github.com/nathanlabora), [Jake Chernicky](https://github.com/jakeicky),[Ilia Ernston
+**Contributors**: [Nathan Labora](https://github.com/nathanlabora), [Jake Chernicky](https://github.com/jakeicky),[Ilia Ernston]
 
 ### NeuroSites
 **Description**: Welcome to NeuroSites — a curated collection of customizable templates for neuroscience-related websites, including lab pages, personal research sites, and event pages. \

@@ -38,3 +38,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Description**: Create a tool that analyzes DICOM headers and leverages Large Language Models (LLM) to automatically generate heuristic files for HeuDiConv, streamlining the conversion from DICOM to BIDS.  \
 **Project url**: https://github.com/NeuroHackademy2025/llm-heuristics \
 **Contributors**: [Tien Tong](https://github.com/tien-tong)
+
+### Funk-y Connection
+**Description**: This analysis is aimed at discovering differences between healthy and depressed brains using the [Transdiagnostic connectome project](https://openneuro.org/datasets/ds005237/versions/1.1.3). We tested differences in network metrics like global efficiency and nodal degree between healthy and depressed populations and functional connectivity to predict the degree of depression using a graph neural network.   \
+**Project url**: https://github.com/NeuroHackademy2025/func_connectivity \
+**Contributors**: [Andrea Fernandes](https://github.com/a-ferfer) & [Chris Weinberger](https://github.com/chris-weinberger) & [Clara Pecci](https://github.com/clarapecci) & [Danial Khoshsoroor](https://github.com/Danialkh96) & [Diego Ramirez Gonzalez](https://github.com/diramigo) & [Samantha Eaton](https://github.com/SamanthasCodes) 

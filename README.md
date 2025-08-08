@@ -18,3 +18,8 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Project url**: https://github.com/NeuroHackademy2025/high-dimensionality-prediction  \
 **Contributors**: [Gabriela Franca](https://github.com/GabrielaFranca) & [Sam Brunson](https://github.com/brunsons98) & [Vanessa Morgan](https://github.com/vanessatmorgan) & 
 [Jocelyn Ricard](https://github.com/ricardjocelyn) & [Xin Du](https://github.com/NotDX) & [Yewande Taiwo](https://github.com/ytaiwo) & [Maria Pitteri](https://github.com/mariacpitteri) & [Bijay Adhikari](https://github.com/bjayadikari) & [Tengwen Fan](https://github.com/tengwenfan) & [Ais Sheldon](https://github.com/ais-sheldon)  
+
+### Func-Struct_Extractor
+**Description**: A flexible python package that allows you to take a label from any space (volume or surface, template or native), and project it into the sapce of any structural image/map of the brain to extract metrics of strucutral properties. \
+**Project url**: https://github.com/NeuroHackademy2025/func-struct_extractor \
+**Contributors**: [Jamie Mitchell](https://github.com/jamielmitchell) & [John Romero](https://github.com/johndromero) & [Svenja Seuffert](https://github.com/svenjaseuffert)

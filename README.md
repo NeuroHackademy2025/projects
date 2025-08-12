@@ -2,17 +2,6 @@
 
 ## Projects
 
-<!-- 
-INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DASHES ("---") WITH YOUR PROJECT INFORMATION 
--->
-
-### ---Project title---
-**Description**: ---Your description here ---  \
-**Project url**: ---Your URL here --- \
-**Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 2---](---GitHub link 2 ---) & ---etc.---
-
-<!-- -->
-
 ### Encoding-Retrieval Similarity in MTL and pFC using the Natural Scenes Dataset
 **Description**: How memory representation changes in different cortical and subcortical regions under 7T, and how the stability of such representations predicts memory quality. We used representational similarity analysis and drift diffusion modeling to explore the data.  \
 **Project url**: https://github.com/Lingwei-oy/memory_NSD \

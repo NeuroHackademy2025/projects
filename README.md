@@ -84,8 +84,8 @@
 **Contributors**: [Yashoda Krishna Das](https://github.com/Ykd-stat24), [Anudeep Vadrevu](https://github.com/Anudeep2205), [Mert Ozkan](https://github.com/mert-ozkan) & [Giulia Vasirani](https://github.com/Vassy-neuro/)
 
 ### Aperiodic Signatures of Hormonal Contraceptive Use in Resting-State EEG
-**Description** Using features from resting state EEG (eyes open and closed) to predict contraceptive use (vs non use) 
-**Project URL** https://github.com/ekaplan7/menstrual-aperiodic
-**Contribiutors**: Liz Kaplan (https://github.com/ekaplan7/), Nicole Liddle, Aleyna Gross 
+**Description** Using features from resting state EEG (eyes open and closed) to predict contraceptive use (vs non use) \
+**Project URL** https://github.com/ekaplan7/menstrual-aperiodic \
+**Contributors**: Liz Kaplan (https://github.com/ekaplan7/), Nicole Liddle, Aleyna Gross 
 
 
